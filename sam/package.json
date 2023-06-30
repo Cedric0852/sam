@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "react-native-paper": "4.9.2",
+    "@expo/vector-icons": "^13.0.0",
+    "expo-constants": "~14.0.2",
+    "react-native-reanimated": "~2.12.0",
+    "react-native-redash": "*",
+    "@react-navigation/native": "^6.1.7",
+    "react-native-gesture-handler": "~2.8.0",
+    "react-native-screens": "~3.18.0",
+    "react-native-safe-area-context": "4.4.1"
+  }
+}
